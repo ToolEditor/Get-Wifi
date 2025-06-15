@@ -8,5 +8,5 @@ How to use this script 👇
 How it works 👇
 * it will collects all wifi details from windows pc by the help of powershell.
 
-Caution: It is only For study purpose.
+Caution: It is disigned only For study purpose.
 
