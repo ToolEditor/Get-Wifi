@@ -6,7 +6,7 @@ How to use this script 👇
 * run on your windows environment by double clicking.
 
 How it works 👇
-* it will collects all wifi details with passwords from windows pc by the powershell.
+* it will collects all wifi details from windows pc by the powershell.
 
 Caution: It is only For study purpose.
 
