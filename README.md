@@ -2,7 +2,7 @@
 This vbs script only works on windows !
 
 How to use this script 👇
-* copy this script in pendrive
+* copy this script in pendrive.
 * run on your windows environment by double clicking.
 
 How it works 👇
